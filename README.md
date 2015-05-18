@@ -4,7 +4,7 @@
 
 Download or clone __ListPackagesCommand.php__ and put into _app/Console/Commands_ folder.
 
-Add the reference to ListPackageCommand in your _app/Console/_ __Kernel.php__
+Add the reference to ListPackagesCommand in your _app/Console/_ __Kernel.php__
 ```
 protected $commands = [
 	'App\Console\Commands\Inspire',
